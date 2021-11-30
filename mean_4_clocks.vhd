@@ -61,3 +61,4 @@ begin
         OUTPUT <= std_logic_vector(var1 + var2 + var3 + var4);
     end process;
 end arch;
+teste
